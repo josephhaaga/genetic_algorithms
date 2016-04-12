@@ -6,3 +6,5 @@
 TSP is a fundamental discrete optimization problem in computer science. A collection of nodes (cities) are connected by edges (e.g. paths or routes), with the goal being to find the shortest possible route through each city (e.g. the tour of minimum length). Total tour distance provides a useful utility function to determine the 'fitness' of each candidate solution in a given population.
 
 <img src="tsp1.gif">
+
+Photo courtesy of Dr. Raul Simha GWU SEAS 
