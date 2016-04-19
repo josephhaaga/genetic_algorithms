@@ -7,4 +7,6 @@ TSP is a fundamental discrete optimization problem in computer science. A collec
 
 <img src="TSP/tsp1.gif">
 
-Photo courtesy of Dr. Raul Simha GWU SEAS 
+Photo courtesy of Dr. Raul Simha GWU SEAS
+
+ 
