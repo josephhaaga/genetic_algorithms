@@ -9,4 +9,9 @@ TSP is a fundamental discrete optimization problem in computer science. A collec
 
 Photo courtesy of Dr. Raul Simha GWU SEAS
 
+## Crossover techniques
+Crossover techniques designate exactly how a child inherits characteristics from parents. We compared Ordered, Partially-Matched, and Two-Point crossover techniques, and observed very similar results from the Partially Matched and Ordered Crossover. 
+
+![](partiallyMatchedCx.png)
+*Partially-Matched crossover*
  
