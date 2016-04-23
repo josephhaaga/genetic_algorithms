@@ -15,9 +15,9 @@ Crossover techniques designate exactly how a child inherits characteristics from
 ![](TSP/partiallyMatchedCx.png "Partially-matched crossover")
 *Partially-Matched crossover*
 
-![](TSP/orderedCx.png "Ordered crossover")
+![](TSP/orderedCrossover.png "Ordered crossover")
 *Ordered crossover*
 
-![](TSP/twoPointCx.png "Two-Point crossover")
+![](TSP/twoPointCrossover.png "Two-Point crossover")
 *Two-Point crossover*
  
