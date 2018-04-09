@@ -12,10 +12,10 @@ Photo courtesy of Dr. Raul Simha GWU SEAS
 ## Crossover techniques
 Crossover techniques designate exactly how a child inherits characteristics from parents. We compared Ordered, Partially-Matched, and Two-Point crossover techniques, and observed very similar results from the Partially Matched and Ordered Crossover. 
 
-![](TSP/partiallyMatchedCx.png "Partially-matched crossover")
+![](screenshots/partially_matched.png "Partially-matched crossover")
 *Partially-Matched crossover*
 
-![](TSP/orderedCrossover.png "Ordered crossover")
+![](screenshots/ordered.png "Ordered crossover")
 *Ordered crossover*
 
 ![](TSP/twoPtCrossover.png "Two-Point crossover")
